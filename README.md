@@ -128,6 +128,8 @@ KanjiGloss extends this philosophy from **isolated kanji study** to **contextual
 
 ## Technical Implementation
 
+> **⚠️ Prototype Status:** The code in `src/` is an early-stage prototype demonstrating the core concept. It is not production-ready. Known limitations include: no API key management, minimal error handling, no caching, and no tests. Contributions and feedback are welcome.
+
 The current prototype is built as a React component using:
 
 - Claude API for jukugo identification and translation
