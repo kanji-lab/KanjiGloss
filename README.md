@@ -8,6 +8,12 @@ A meaning-first reading aid for L2 Japanese learners.
 
 ---
 
+## Origin
+
+This tool was built for a friend — an American student on exchange — who wanted to read real Japanese text but kept hitting a wall. He could read basic kanji. But kanji compounds — jukugo, where two or more characters combine into a single meaning — kept stopping him. Every sentence meant pausing to look things up, breaking the flow before it could begin.
+
+That observation pointed to something structural. Kanji vocabulary is learned linearly — one character, one compound at a time. There is no shortcut. But the most interesting parts of Japanese — the way particles encode relationships, the freedom of word order, the way meaning is held open until the verb arrives at the end — none of that requires knowing how kanji compounds are read. KanjiGloss is an attempt to unlock those parts of the language first.
+
 ## The Core Idea
 
 Japanese is unusual in that it simultaneously employs two fundamentally different types of script — **phonographic** scripts (hiragana/katakana) that encode sound, and a **logographic** script (kanji) that encodes meaning. While Chinese also uses logographic characters, Japanese is distinctive in mixing both systems within the same sentence. Crucially, these scripts activate different cognitive pathways in the brain.
@@ -117,6 +123,8 @@ However, **ruby-position L1 glosses for kanji compounds** have not been studied 
 James Heisig's *Remembering the Kanji* (1977–) pioneered the "meaning-first, reading-later" approach, aiming to give learners the same advantage that Chinese and Korean speakers have: recognizing kanji meanings without knowing their Japanese pronunciations.
 
 KanjiGloss extends this philosophy from **isolated kanji study** to **contextual reading of natural text**.
+
+KanjiGloss does not propose skipping the learning of readings. It proposes deferring it — so that grammar, not vocabulary, can be the first thing that becomes intuitive.
 
 ## Potential Applications
 
